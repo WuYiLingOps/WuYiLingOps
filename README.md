@@ -29,8 +29,7 @@
 
 ## 🙋 Hello
 
-<table width="100%">
-<tr><td align="center">
+<div align="center">
 
 ### 🤺 About Me
 
@@ -42,9 +41,7 @@
 <p>持续构建高可用、可维护、可扩展的项目。</p>
 <p><strong>We're making the world a better place through elegant code.</strong></p>
 
-</td></tr>
-
-<tr><td align="center">
+---
 
 ### 🛠️ Tech Stack
 
@@ -52,9 +49,7 @@
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql" /><br>
 <img src="https://skillicons.dev/icons?i=redis,git,github,vscode,cloudflare" />
 
-</td></tr>
-
-<tr><td align="center">
+---
 
 ### 🎯 Current Focus
 
@@ -63,9 +58,7 @@
 <p>🚀 Serverless API 设计与性能优化 &nbsp;·&nbsp; 🔧 自动化部署与可观测性建设</p>
 <p>📦 构建对外可复用的开源工具 &nbsp;·&nbsp; 🌐 探索 Cloud Native 最佳实践</p>
 
-</td></tr>
-
-</table>
+</div>
 
 ---
 
