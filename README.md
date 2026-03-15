@@ -31,8 +31,8 @@
 
 <div align="center">
 
-<table>
-<tr><td align="center" width="600">
+<table width="100%">
+<tr><td align="center">
 
 ### 🤺 About Me
 
