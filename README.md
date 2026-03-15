@@ -88,20 +88,6 @@
 
 ---
 
-## 🏆 Highlight Projects
-
-<div align="center">
-
-[![github-calendar-api](https://github-readme-stats.vercel.app/api/pin/?username=WuYiLingOps&repo=github-calendar-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9)](https://github.com/WuYiLingOps/github-calendar-api)
-
-<a href="https://github.com/WuYiLingOps?tab=repositories">
-  <img src="https://img.shields.io/badge/-More%20Projects-00f5ff?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
