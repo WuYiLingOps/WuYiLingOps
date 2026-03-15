@@ -29,8 +29,6 @@
 
 ## 🙋 Hello
 
-<div align="center">
-
 <table width="100%">
 <tr><td align="center">
 
@@ -68,8 +66,6 @@
 </td></tr>
 
 </table>
-
-</div>
 
 ---
 
