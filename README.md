@@ -29,47 +29,47 @@
 
 ## 🙋 Hello
 
+<div align="center">
+
 <table>
-<tr><td>
+<tr><td align="center" width="600">
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
+<img width="88" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
 
-<p>&emsp;&emsp;你好，我是 WuYiLingOps（無以菱）。</p>
-<p>&emsp;&emsp;热爱后端开发、自动化运维与工程化实践。</p>
-<p>&emsp;&emsp;关注 Cloud Native、API 设计、可观测性与稳定性。</p>
-<p>&emsp;&emsp;持续构建高可用、可维护、可扩展的项目。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place through elegant code.</strong></p>
+<p>你好，我是 WuYiLingOps（無以菱）。</p>
+<p>热爱后端开发、自动化运维与工程化实践。</p>
+<p>关注 Cloud Native、API 设计、可观测性与稳定性。</p>
+<p>持续构建高可用、可维护、可扩展的项目。</p>
+<p><strong>We're making the world a better place through elegant code.</strong></p>
 
 </td></tr>
 
-<tr><td>
+<tr><td align="center">
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=redis,git,github,vscode,cloudflare" />
-</div>
+<img src="https://skillicons.dev/icons?i=go,py,ts,js,nodejs" /><br>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=redis,git,github,vscode,cloudflare" />
 
 </td></tr>
 
-<tr><td>
+<tr><td align="center">
 
 ### 🎯 Current Focus
 
-<img align="right" width="88" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+<img width="88" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 
-- 🚀 Serverless API 设计与性能优化
-- 🔧 自动化部署与可观测性建设
-- 📦 构建对外可复用的开源工具
-- 🌐 探索 Cloud Native 最佳实践
+<p>🚀 Serverless API 设计与性能优化 &nbsp;·&nbsp; 🔧 自动化部署与可观测性建设</p>
+<p>📦 构建对外可复用的开源工具 &nbsp;·&nbsp; 🌐 探索 Cloud Native 最佳实践</p>
 
 </td></tr>
 
 </table>
+
+</div>
 
 ---
 
